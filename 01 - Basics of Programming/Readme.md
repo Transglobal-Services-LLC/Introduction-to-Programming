@@ -78,8 +78,6 @@ Something that you can define as the programmer to store in memory while the app
 
 For instance declaring Name = "Dane"
 
-https://www.w3schools.com/python/python_ref_keywords.asp
-
 ## Logical and Arithmetical Operators
 
 ```python
